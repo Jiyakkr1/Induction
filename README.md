@@ -12,7 +12,7 @@ Its primary objectives were to:
 - Encourage interaction between students, faculty, alumni, and industry experts.
 - Foster a sense of community and belonging.
 
-The event blended traditional ceremonies, motivational talks, technical sessions, and skill-building activities over six days.
+The event blended traditional ceremonies, motivational talks, technical sessions, and skill-building activities over seven days.
 
 ---
 ## 📅 Day 1: 29th July 2025  
@@ -241,18 +241,22 @@ Encouraged student participation in:
 
 
 ## 📌 Program Summary
+> 🗓️ Duration: 29th July – 7th August 2025  
+> 📍 Location: Guru Nanak Dev Engineering College, Ludhiana
 
-| Day | Focus | Speakers / Guests | Key Activities |
-|-----|-------|--------------------|----------------|
-| **Day 1** | Spiritual & Formal Welcome | Dr. Sehijpal Singh, Dr. Harpreet Grewal, S. Maheshinder Grewal | Path, Ceremony, Departmental Orientation |
-| **Day 2** | CSE/IT Orientation | Dr. Akshay Girdhar, Ravinder Garg, Rakesh Kumar | Alumni Video, Guest Talks |
-| **Day 3** | Skills & Values | Dr. Arashdeep, Dr. Dhingra, Dr. Darshni | Skill Assessments, Scholarships |
-| **Day 4** | Reflection & Interaction | Dr. Jaswinder Singh, S. Gurcharan Grewal | Lab on Wheels, Value Sessions |
-| **Day 5** | Leadership & Peer Learning | Gautam Sir, Dr. Darshni | Club Showcase, Peer-to-Peer Learning |
+| **Day & Date**            | **Theme / Focus**                                | **Key Activities / Highlights**                                                                                                                                                                                                                 |
+|---------------------------|---------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Day 1**<br>🗓️ 31 July    | *A New Beginning with Values and Vision*         | - 🌸 Path & Kirtan at Gurudwara Sahib<br>- 🎤 Welcome by Dr. Harpreet Kaur Grewal (HoD AS), Dr. Sehijpal Singh (Principal), and S. Maheshinder Singh Grewal (Chief Guest)<br>- 🏛 Department tours and faculty interaction                          |
+| **Day 2**<br>🗓️ 1 August    | *Legacy & Leadership for CSE & IT Freshers*      | - 🛕 Spiritual start<br>- 🎥 GNDEC legacy & alumni videos<br>- 🎤 Talks by Principal, Deans & HoDs<br>- 🌟 Guests: Er. Ravinder Garg & Er. Rakesh Kumar<br>- 📝 Vote of thanks by Dr. K.S. Mann                                                     |
+| **Day 3**<br>🗓️ 2 August   | *Skill Development & Value Education*            | - 🧠 Talks: Dr. Priya Darshni (UHV-1), Dr. Arvind Dhingra (STEP), Dr. Arashdeep Singh (Wellness)<br>- 📝 Proficiency tests: English & Maths<br>- 🎓 Scholarship guidance by Buddy4Study                                                           |
+| **Day 4**<br>🗓️ 4 August   | *Interaction, Introspection & Innovation*        | - 🧪 Science demos by Dr. Jaswinder Singh (JaswinS Lab)<br>- 🧠 Continued UHV by Dr. Priya Darshni<br>- 🎤 Talk by S. Gurcharan Singh Grewal (SGPC)<br>- 💬 Discussion on test results                                                             |
+| **Day 5**<br>🗓️ 5 August   | *Leadership, Innovation & Peer Learning*         | - 🧠 Final UHV session by Dr. Priya Darshni<br>- 🔥 Gautam Sir shared his Motorsports journey<br>- 🚀 Causmic Club showcased student-led projects<br>- 🤝 Peer-to-peer sessions & student-led classes                                              |
+| **Day 6**<br>🗓️ 6 August   | *Launch of Center for Multi-Faceted Learning*    | - 🎤 Keynote: Mr. Lakhvir Singh Sekhon<br>- 🚀 Introduction to CML: Innovation, AICTE/UGC projects, IIT collabs, industry connects<br>- 🌐 Focus on startups & real-world projects                                                                  |
+| **Day 7**<br>🗓️ 7 August   | *Campus Life, Creativity & Academic Conduct*     | - 🎤 Dr. Parminder Singh on Student Welfare<br>- 🛏️ Hostel, library, sports, amenities walkthrough<br>- 🌐 TAANG platform showcase<br>- 🌱 NSS: Plantation, donation drives<br>- 📚 Dr. Randhir Singh on exam rules & assessments                    |
 
 ---
+> *"Empowering freshers with purpose, values, creativity, and innovation."*
 
 ### ✨ Powered by  
 **Causmic Club** – Fostering creativity, leadership, and innovation at GNDEC.  
 Together, we shape futures! 🚀
-
